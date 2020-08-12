@@ -1,0 +1,38 @@
+Estructuras
+
+1.- Hash Table
+	Se utiliza para almacenar a los usuarios, el key que se utiliza es el String del nombre del Usuario,
+	no pueden existir dos usuarios con el mismo nombre.
+
+2.- Heaps
+	Se utiliza como cola de prioridad para generar los disparos aleatorios, al momento de generarse el juego,
+	se guarda cada barco en una lista, a cada barco se le agrega un id entre el 0 y el 1000 generado de manera
+	aleatoria, al ser solamente 100 barcos hay pocas posibilidades de que los id se repitan, posteriormente se 
+	le aplica un heap sort a la lista para acomodar los barcos de acuerdo al id generado aleatoriamente, de esta
+	manera se genera un orden de disparo aleatorio para el enemigo
+
+3.- Grafos
+	El tablero del juego se encuentra construido por un grafo, el juego consta de 2 grafos, uno para el enemigo y otro
+	para el jugador, cada grafo está constituido por 100 nodos, cada nodo esta conformado por un BotonBarco, el cual 
+	contiene sus atributos, cada nodo contiene una lista de adyacencias, en la que contiene los nodos vecinos,
+	pueden ser 2, 3 o 4 vecinos dependiendo de la posición del nodo en el tablero.
+
+4.- Lista Enlazada
+	Se utiliza principalmente como auxiliar en otros metodos o estructuras, por ejemplo como la base para un Stack o 
+	Queue, en la lista de Adyacencias para los grafos, La lista para generar los Heaps o como estructura temporal para
+	algunos procedimientos.
+
+5.- Stack
+	Se utiliza para los disparos contiguos, cada barco del jugador posee su propio Stack, el cual consiste de una 
+	lista Enlazada con los vecinos de cada nodo, cuando se acierta en un barco se agrega una lista con los vecinos
+	al stack, cada que se dispara a un nodo dentro de los vecinos se borra este nodo de la lista, si es un acierto
+	se agrega la nueva lista al stack, en caso de que la lista quede vacía se elimina la lista del stack y se retrocede
+	a la lista anterior, en caso de que el barco sea destruido el stack se vacia completamente, mientras el stack no 
+	se encuentre vacio los disparos del enemigo seran en los nodos dentro del stack, una vez que se vacie los disparos
+	volveran a ser aleatorios
+
+6.- Queue
+	Se utiliza para generar el LOG, cada que ocurre un evento en el juego se agrega un String a la cola con la información
+	del evento, una vez que se termina la batalla la cola empieza a vaciar sus datos en un archivo .txt
+	Tambien se utiliza como auxiliar para guardar los usuarios de forma temporal al momento de guardar los datos de cada usuario al
+	final de cada juego

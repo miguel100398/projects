@@ -1,0 +1,1 @@
+miguel,src\Usuarios\Images\miguel.jpg,miguel,1160,3,3,0,142,51,91,15,11

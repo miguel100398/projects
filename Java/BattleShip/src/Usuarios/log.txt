@@ -1,0 +1,104 @@
+¡La batalla ha iniciado! 13:57:20 09/05/2020
+Disparo del jugador acertado en la casilla: F6 En el tiempo de juego: 0 minutos con 13 segundos
+Disparo del Enemigo errado en la casilla: J8 En el tiempo de juego: 0 minutos con 17 segundos
+Disparo del jugador errado en la casilla: G6 En el tiempo de juego: 0 minutos con 20 segundos
+Disparo del Enemigo acertado en la casilla: F3 En el tiempo de juego: 0 minutos con 23 segundos
+Disparo del jugador errado en la casilla: E6 En el tiempo de juego: 0 minutos con 29 segundos
+Disparo del Enemigo errado en la casilla: F2 En el tiempo de juego: 0 minutos con 32 segundos
+Disparo del jugador errado en la casilla: F7 En el tiempo de juego: 0 minutos con 40 segundos
+Disparo del Enemigo errado en la casilla: E3 En el tiempo de juego: 0 minutos con 44 segundos
+Disparo del jugador acertado en la casilla: F5 En el tiempo de juego: 0 minutos con 47 segundos
+Destructor enemigo destruido  En el tiempo de juego: 0 minutos con 47 segundos
+Disparo del Enemigo errado en la casilla: F4 En el tiempo de juego: 0 minutos con 53 segundos
+Disparo del jugador errado en la casilla: A3 En el tiempo de juego: 0 minutos con 56 segundos
+Disparo del Enemigo acertado en la casilla: G3 En el tiempo de juego: 1 minutos con 0 segundos
+Destructor perdido  En el tiempo de juego: 1 minutos con 0 segundos
+Disparo del jugador errado en la casilla: J7 En el tiempo de juego: 1 minutos con 8 segundos
+Disparo del Enemigo errado en la casilla: I4 En el tiempo de juego: 1 minutos con 11 segundos
+Disparo del jugador errado en la casilla: J8 En el tiempo de juego: 1 minutos con 15 segundos
+Disparo del Enemigo acertado en la casilla: A8 En el tiempo de juego: 1 minutos con 19 segundos
+Disparo del jugador errado en la casilla: J9 En el tiempo de juego: 1 minutos con 22 segundos
+Disparo del Enemigo errado en la casilla: B8 En el tiempo de juego: 1 minutos con 26 segundos
+Disparo del jugador errado en la casilla: A1 En el tiempo de juego: 1 minutos con 29 segundos
+Disparo del Enemigo acertado en la casilla: A9 En el tiempo de juego: 1 minutos con 33 segundos
+Disparo del jugador errado en la casilla: B1 En el tiempo de juego: 1 minutos con 37 segundos
+Disparo del Enemigo errado en la casilla: B9 En el tiempo de juego: 1 minutos con 41 segundos
+Disparo del jugador errado en la casilla: B10 En el tiempo de juego: 1 minutos con 46 segundos
+Disparo del Enemigo errado en la casilla: A10 En el tiempo de juego: 1 minutos con 51 segundos
+Disparo del jugador acertado en la casilla: I3 En el tiempo de juego: 1 minutos con 53 segundos
+Disparo del Enemigo acertado en la casilla: A7 En el tiempo de juego: 1 minutos con 57 segundos
+Crucero perdido  En el tiempo de juego: 1 minutos con 57 segundos
+Disparo del jugador errado en la casilla: H3 En el tiempo de juego: 2 minutos con 3 segundos
+Disparo del Enemigo errado en la casilla: I9 En el tiempo de juego: 2 minutos con 6 segundos
+Disparo del jugador errado en la casilla: I2 En el tiempo de juego: 2 minutos con 10 segundos
+Disparo del Enemigo errado en la casilla: A4 En el tiempo de juego: 2 minutos con 14 segundos
+Disparo del jugador acertado en la casilla: I4 En el tiempo de juego: 2 minutos con 18 segundos
+Disparo del Enemigo acertado en la casilla: H1 En el tiempo de juego: 2 minutos con 21 segundos
+Disparo del jugador acertado en la casilla: I5 En el tiempo de juego: 2 minutos con 25 segundos
+Disparo del Enemigo errado en la casilla: G1 En el tiempo de juego: 2 minutos con 29 segundos
+Disparo del jugador acertado en la casilla: I6 En el tiempo de juego: 2 minutos con 34 segundos
+Acorazado enemigo destruido  En el tiempo de juego: 2 minutos con 34 segundos
+Disparo del Enemigo acertado en la casilla: I1 En el tiempo de juego: 2 minutos con 39 segundos
+Disparo del jugador errado en la casilla: E3 En el tiempo de juego: 2 minutos con 43 segundos
+Disparo del Enemigo errado en la casilla: I2 En el tiempo de juego: 2 minutos con 48 segundos
+Disparo del jugador errado en la casilla: B7 En el tiempo de juego: 2 minutos con 53 segundos
+Disparo del Enemigo acertado en la casilla: J1 En el tiempo de juego: 2 minutos con 56 segundos
+Submarino perdido  En el tiempo de juego: 2 minutos con 57 segundos
+Disparo del jugador errado en la casilla: C6 En el tiempo de juego: 3 minutos con 1 segundos
+Disparo del Enemigo errado en la casilla: F7 En el tiempo de juego: 3 minutos con 4 segundos
+Disparo del jugador errado en la casilla: D5 En el tiempo de juego: 3 minutos con 7 segundos
+Disparo del Enemigo errado en la casilla: J6 En el tiempo de juego: 3 minutos con 10 segundos
+Disparo del jugador errado en la casilla: E9 En el tiempo de juego: 3 minutos con 13 segundos
+Disparo del Enemigo errado en la casilla: A5 En el tiempo de juego: 3 minutos con 18 segundos
+Disparo del jugador errado en la casilla: H10 En el tiempo de juego: 3 minutos con 23 segundos
+Disparo del Enemigo errado en la casilla: J10 En el tiempo de juego: 3 minutos con 27 segundos
+Disparo del jugador acertado en la casilla: I9 En el tiempo de juego: 3 minutos con 29 segundos
+Disparo del Enemigo errado en la casilla: B10 En el tiempo de juego: 3 minutos con 33 segundos
+Disparo del jugador acertado en la casilla: H9 En el tiempo de juego: 3 minutos con 39 segundos
+Disparo del Enemigo errado en la casilla: D1 En el tiempo de juego: 3 minutos con 43 segundos
+Disparo del jugador acertado en la casilla: G9 En el tiempo de juego: 3 minutos con 50 segundos
+Submarino enemigo destruido  En el tiempo de juego: 3 minutos con 50 segundos
+Disparo del Enemigo errado en la casilla: E5 En el tiempo de juego: 3 minutos con 57 segundos
+Disparo del jugador errado en la casilla: F2 En el tiempo de juego: 4 minutos con 0 segundos
+Disparo del Enemigo acertado en la casilla: D10 En el tiempo de juego: 4 minutos con 3 segundos
+Disparo del jugador errado en la casilla: C2 En el tiempo de juego: 4 minutos con 9 segundos
+Disparo del Enemigo acertado en la casilla: E10 En el tiempo de juego: 4 minutos con 13 segundos
+Disparo del jugador acertado en la casilla: D8 En el tiempo de juego: 4 minutos con 19 segundos
+Disparo del Enemigo acertado en la casilla: F10 En el tiempo de juego: 4 minutos con 22 segundos
+Disparo del jugador acertado en la casilla: E8 En el tiempo de juego: 4 minutos con 30 segundos
+Disparo del Enemigo errado en la casilla: F9 En el tiempo de juego: 4 minutos con 33 segundos
+Disparo del jugador errado en la casilla: F8 En el tiempo de juego: 4 minutos con 36 segundos
+Disparo del Enemigo acertado en la casilla: G10 En el tiempo de juego: 4 minutos con 41 segundos
+Acorazado perdido  En el tiempo de juego: 4 minutos con 41 segundos
+Disparo del jugador acertado en la casilla: C8 En el tiempo de juego: 4 minutos con 47 segundos
+Disparo del Enemigo errado en la casilla: H7 En el tiempo de juego: 4 minutos con 50 segundos
+Disparo del jugador acertado en la casilla: B8 En el tiempo de juego: 4 minutos con 56 segundos
+Disparo del Enemigo errado en la casilla: H9 En el tiempo de juego: 5 minutos con 0 segundos
+Disparo del jugador acertado en la casilla: A8 En el tiempo de juego: 5 minutos con 3 segundos
+Portaviones enemigo destruido  En el tiempo de juego: 5 minutos con 3 segundos
+Disparo del Enemigo errado en la casilla: I7 En el tiempo de juego: 5 minutos con 12 segundos
+Disparo del jugador errado en la casilla: I1 En el tiempo de juego: 5 minutos con 18 segundos
+Disparo del Enemigo errado en la casilla: F8 En el tiempo de juego: 5 minutos con 23 segundos
+Disparo del jugador acertado en la casilla: B4 En el tiempo de juego: 5 minutos con 27 segundos
+Disparo del Enemigo errado en la casilla: E9 En el tiempo de juego: 5 minutos con 35 segundos
+Disparo del jugador errado en la casilla: C4 En el tiempo de juego: 5 minutos con 43 segundos
+Disparo del Enemigo errado en la casilla: H10 En el tiempo de juego: 5 minutos con 46 segundos
+Disparo del jugador errado en la casilla: B3 En el tiempo de juego: 5 minutos con 49 segundos
+Disparo del Enemigo errado en la casilla: H8 En el tiempo de juego: 5 minutos con 53 segundos
+Disparo del jugador acertado en la casilla: B5 En el tiempo de juego: 5 minutos con 58 segundos
+Disparo del Enemigo errado en la casilla: G9 En el tiempo de juego: 6 minutos con 1 segundos
+Disparo del jugador errado en la casilla: D7 En el tiempo de juego: 6 minutos con 7 segundos
+Disparo del Enemigo errado en la casilla: A1 En el tiempo de juego: 6 minutos con 10 segundos
+Disparo del jugador errado en la casilla: E7 En el tiempo de juego: 6 minutos con 14 segundos
+Disparo del Enemigo errado en la casilla: B2 En el tiempo de juego: 6 minutos con 17 segundos
+Disparo del jugador errado en la casilla: E1 En el tiempo de juego: 6 minutos con 22 segundos
+Disparo del Enemigo errado en la casilla: J7 En el tiempo de juego: 6 minutos con 25 segundos
+Disparo del jugador errado en la casilla: F1 En el tiempo de juego: 6 minutos con 28 segundos
+Disparo del Enemigo errado en la casilla: H4 En el tiempo de juego: 6 minutos con 33 segundos
+Disparo del jugador errado en la casilla: G2 En el tiempo de juego: 6 minutos con 35 segundos
+Disparo del Enemigo errado en la casilla: G4 En el tiempo de juego: 6 minutos con 39 segundos
+Disparo del jugador acertado en la casilla: B6 En el tiempo de juego: 6 minutos con 42 segundos
+Crucero enemigo destruido  En el tiempo de juego: 6 minutos con 42 segundos
+Victoria en el tiempo de juego: 6 minutos con 45 segundos
+¡La batalla ha finalizado!: 13:57:20 09/05/2020
+Disparos: 46 Aciertos: 17 Fallos: 29 Barcos Perdidos: 4 Barcos Destruidos: 5
