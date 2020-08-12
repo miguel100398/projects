@@ -1,0 +1,234 @@
+-I-: Log(): Log file opened PC time: 00:03:57:357
+-I-: Serial Comunication(): Serial_comunication created PC time: 00:03:57:357
+-I-: Serial Comunication(): Searching for ports PC time: 00:03:57:357
+-I-: Serial Comunication(): Finished searching ports PC time: 00:03:57:357
+-I-: Serial Comunication(): Selecting port PC time: 00:03:57:357
+-I-: GUI(): GUI created PC time: 00:03:58:358
+-I-: Smart House(): All elements created PC time: 00:03:58:358
+-I-: Serial Comunication(): Port Selected: COM9 PC time: 00:04:00:40
+-I-: GUI model(): GUI model created PC time: 00:04:01:41
+-I-: Serial Comunication(): Connecting port PC time: 00:04:01:41
+-I-: Serial Comunication(): COM9 opened succesfully PC time: 00:04:01:41
+-I-: Serial Comunication(): EventListener added PC time: 00:04:01:41
+-I-: Serial Comunication(): Starting system PC time: 00:04:01:41
+-I-: Serial Comunication(): Wrote message: s PC time: 00:04:01:41
+-E-: Serial Comunication(): Failed to read data. (java.lang.StringIndexOutOfBoundsException: String index out of range: 2) PC time: 00:04:01:41
+-E-: Serial Comunication(): Failed to read data. (java.lang.StringIndexOutOfBoundsException: String index out of range: 2) PC time: 00:04:01:41
+-E-: Serial Comunication(): Failed to read data. (java.lang.StringIndexOutOfBoundsException: String index out of range: -2) PC time: 00:04:01:41
+-I-: stm32(): Start usb_Serial task t:0:0:8:722 PC time: 00:04:01:41
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:12:807 PC time: 00:04:05:45
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:16:909 PC time: 00:04:09:49
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:21:11 PC time: 00:04:13:413
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:25:113 PC time: 00:04:18:418
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:29:215 PC time: 00:04:22:422
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:33:317 PC time: 00:04:26:426
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:37:419 PC time: 00:04:30:430
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:41:521 PC time: 00:04:34:434
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:45:623 PC time: 00:04:38:438
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:49:725 PC time: 00:04:42:442
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:53:827 PC time: 00:04:46:446
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:57:929 PC time: 00:04:50:450
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:2:31 PC time: 00:04:54:454
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:6:133 PC time: 00:04:59:459
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:10:235 PC time: 00:05:03:53
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:14:337 PC time: 00:05:07:57
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:18:440 PC time: 00:05:11:511
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:22:542 PC time: 00:05:15:515
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:26:644 PC time: 00:05:19:519
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:30:746 PC time: 00:05:23:523
+-I-: GUI model(): btn LED Increment pressed, Incrementing 10% LED Intensity PC time: 00:05:25:525
+-I-: Serial Comunication(): Wrote message: L PC time: 00:05:25:525
+-I-: stm32(): LedIntensity set to:  10 t:0:1:33:263 PC time: 00:05:25:525
+-I-: GUI model(): btn LED Increment pressed, Incrementing 10% LED Intensity PC time: 00:05:26:526
+-I-: Serial Comunication(): Wrote message: L PC time: 00:05:26:526
+-I-: stm32(): LedIntensity set to:  20 t:0:1:33:936 PC time: 00:05:26:526
+-I-: GUI model(): btn LED Increment pressed, Incrementing 10% LED Intensity PC time: 00:05:27:527
+-I-: Serial Comunication(): Wrote message: L PC time: 00:05:27:527
+-I-: stm32(): LedIntensity set to:  30 t:0:1:34:679 PC time: 00:05:27:527
+-I-: GUI model(): btn LED Increment pressed, Incrementing 10% LED Intensity PC time: 00:05:27:527
+-I-: Serial Comunication(): Wrote message: L PC time: 00:05:27:527
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 30% t:0:1:34:848 PC time: 00:05:27:527
+-I-: stm32(): LedIntensity set to:  40 t:0:1:35:475 PC time: 00:05:28:528
+-I-: GUI model(): btn LED Increment pressed, Incrementing 10% LED Intensity PC time: 00:05:28:528
+-I-: Serial Comunication(): Wrote message: L PC time: 00:05:28:528
+-I-: stm32(): LedIntensity set to:  50 t:0:1:36:188 PC time: 00:05:28:528
+-I-: GUI model(): btn LED Increment pressed, Incrementing 10% LED Intensity PC time: 00:05:29:529
+-I-: Serial Comunication(): Wrote message: L PC time: 00:05:29:529
+-I-: stm32(): LedIntensity set to:  60 t:0:1:36:789 PC time: 00:05:29:529
+-I-: GUI model(): btn LED Increment pressed, Incrementing 10% LED Intensity PC time: 00:05:29:529
+-I-: Serial Comunication(): Wrote message: L PC time: 00:05:29:529
+-I-: stm32(): LedIntensity set to:  70 t:0:1:37:462 PC time: 00:05:30:530
+-I-: GUI model(): btn LED Increment pressed, Incrementing 10% LED Intensity PC time: 00:05:30:530
+-I-: Serial Comunication(): Wrote message: L PC time: 00:05:30:530
+-I-: stm32(): LedIntensity set to:  80 t:0:1:38:114 PC time: 00:05:30:530
+-I-: GUI model(): btn LED Increment pressed, Incrementing 10% LED Intensity PC time: 00:05:31:531
+-I-: Serial Comunication(): Wrote message: L PC time: 00:05:31:531
+-I-: stm32(): LedIntensity set to:  90 t:0:1:38:787 PC time: 00:05:31:531
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 90% t:0:1:38:950 PC time: 00:05:31:531
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:33:533
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:33:533
+-I-: stm32(): LedIntensity set to:  80 t:0:1:41:355 PC time: 00:05:33:533
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:34:534
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:34:534
+-I-: stm32(): LedIntensity set to:  70 t:0:1:41:997 PC time: 00:05:34:534
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:34:534
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:34:534
+-I-: stm32(): LedIntensity set to:  60 t:0:1:42:598 PC time: 00:05:35:535
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:35:535
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:35:535
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 60% t:0:1:43:52 PC time: 00:05:36:536
+-I-: stm32(): LedIntensity set to:  50 t:0:1:43:221 PC time: 00:05:36:536
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:36:536
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:36:536
+-I-: stm32(): LedIntensity set to:  40 t:0:1:43:934 PC time: 00:05:36:536
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:36:536
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:36:536
+-I-: stm32(): LedIntensity set to:  30 t:0:1:44:606 PC time: 00:05:37:537
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:37:537
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:37:537
+-I-: stm32(): LedIntensity set to:  20 t:0:1:45:188 PC time: 00:05:37:537
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:38:538
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:38:538
+-I-: stm32(): LedIntensity set to:  10 t:0:1:45:798 PC time: 00:05:38:538
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:38:538
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:38:538
+-I-: stm32(): LedIntensity set to:  0 t:0:1:46:338 PC time: 00:05:38:538
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:39:539
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:39:539
+-I-: stm32(): LedIntensity is at minimun t:0:1:46:899 PC time: 00:05:39:539
+-I-: GUI model(): btn LED Decrement pressed, Decrementing 10% LED Intensity PC time: 00:05:40:540
+-I-: Serial Comunication(): Wrote message: l PC time: 00:05:40:540
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:47:154 PC time: 00:05:40:540
+-I-: stm32(): LedIntensity is at minimun t:0:1:47:622 PC time: 00:05:40:540
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:1:51:256 PC time: 00:05:44:544
+-I-: GUI model(): btn Set LED Intensity pressed, Seting LED Intensity PC time: 00:05:44:544
+-I-: Serial Comunication(): Wrote message: I83 PC time: 00:05:44:544
+-C-: stm32(): (Press esc key to exit) Led Intensity (%): 83 PC time: 00:05:44:544
+-I-: stm32(): LedIntensity set to:  83 t:0:1:52:118 PC time: 00:05:45:545
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 83% t:0:1:55:358 PC time: 00:05:48:548
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 83% t:0:1:59:460 PC time: 00:05:52:552
+-I-: GUI model(): btn Set LED Intensity pressed, Seting LED Intensity PC time: 00:05:52:552
+-I-: Serial Comunication(): Wrote message: I0 PC time: 00:05:52:552
+-C-: stm32(): (Press esc key to exit) Led Intensity (%): 0 PC time: 00:05:53:553
+-I-: stm32(): LedIntensity set to:  0 t:0:2:0:586 PC time: 00:05:53:553
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:2:3:562 PC time: 00:05:56:556
+-I-: GUI model(): btn Set LED Intensity pressed, Seting LED Intensity PC time: 00:05:59:559
+-I-: Serial Comunication(): Wrote message: Iyg PC time: 00:05:59:559
+-C-: stm32(): (Press esc key to exit) Led Intensity (%): y PC time: 00:05:59:559
+-E-: stm32(): ERROR_ID: 0xc Invalid data was sent. Please send a valid intensity (integer numbers) t:0:2:7:222 PC time: 00:06:00:60
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:2:7:664 PC time: 00:06:02:62
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:2:11:766 PC time: 00:06:04:64
+-E-: GUI model(): Trying to write more than 3 characters in Set Led intensity PC time: 00:06:07:67
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:2:15:868 PC time: 00:06:08:68
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:2:19:970 PC time: 00:06:12:612
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:2:24:72 PC time: 00:06:17:617
+-I-: GUI model(): btn Set Maximum Threshold pressed, Seting Maximum Threshold PC time: 00:06:17:617
+-I-: Serial Comunication(): Wrote message: M22 PC time: 00:06:17:617
+-C-: stm32(): (Press esc key to exit) Set max Temperature Threshold (C): 22 PC time: 00:06:18:618
+-I-: stm32(): MAX_TEMP_TRHESHOLD set:  22 t:0:2:25:298 PC time: 00:06:18:618
+-S-: stm32(): Temp: 24 C, MaxTempTh: 22 C, MinTempTh: 20 C, MaxTemp: on, MinTemp: off, ledIntensity: 0% t:0:2:28:174 PC time: 00:06:21:621
+-I-: GUI model(): btn Max Threshold Decrement pressed, Decrementing 1°C Max Threshold PC time: 00:06:22:622
+-I-: Serial Comunication(): Wrote message: n PC time: 00:06:22:622
+-I-: stm32(): MAX_TEMP_TRHESHOLD set:  21 t:0:2:30:432 PC time: 00:06:23:623
+-S-: stm32(): Temp: 24 C, MaxTempTh: 21 C, MinTempTh: 20 C, MaxTemp: on, MinTemp: off, ledIntensity: 0% t:0:2:32:276 PC time: 00:06:25:625
+-I-: GUI model(): btn Max Threshold Increment pressed, Incrementing 1°C Max Threshold PC time: 00:06:25:625
+-I-: Serial Comunication(): Wrote message: N PC time: 00:06:25:625
+-I-: stm32(): MAX_TEMP_TRHESHOLD set:  22 t:0:2:33:540 PC time: 00:06:26:626
+-I-: GUI model(): btn Max Threshold Increment pressed, Incrementing 1°C Max Threshold PC time: 00:06:27:627
+-I-: Serial Comunication(): Wrote message: N PC time: 00:06:27:627
+-I-: stm32(): MAX_TEMP_TRHESHOLD set:  23 t:0:2:34:640 PC time: 00:06:27:627
+-I-: GUI model(): btn Max Threshold Increment pressed, Incrementing 1°C Max Threshold PC time: 00:06:27:627
+-I-: Serial Comunication(): Wrote message: N PC time: 00:06:27:627
+-I-: stm32(): MAX_TEMP_TRHESHOLD set:  24 t:0:2:35:455 PC time: 00:06:28:628
+-I-: GUI model(): btn Max Threshold Increment pressed, Incrementing 1°C Max Threshold PC time: 00:06:28:628
+-I-: Serial Comunication(): Wrote message: N PC time: 00:06:28:628
+-I-: stm32(): MAX_TEMP_TRHESHOLD set:  25 t:0:2:36:239 PC time: 00:06:28:628
+-S-: stm32(): Temp: 24 C, MaxTempTh: 25 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:2:36:378 PC time: 00:06:29:629
+-I-: GUI model(): btn Max Threshold Decrement pressed, Decrementing 1°C Max Threshold PC time: 00:06:31:631
+-I-: Serial Comunication(): Wrote message: n PC time: 00:06:31:631
+-I-: stm32(): MAX_TEMP_TRHESHOLD set:  24 t:0:2:39:155 PC time: 00:06:31:631
+-I-: GUI model(): btn Max Threshold Decrement pressed, Decrementing 1°C Max Threshold PC time: 00:06:32:632
+-I-: Serial Comunication(): Wrote message: n PC time: 00:06:32:632
+-I-: stm32(): MAX_TEMP_TRHESHOLD set:  23 t:0:2:39:928 PC time: 00:06:32:632
+-S-: stm32(): Temp: 24 C, MaxTempTh: 23 C, MinTempTh: 20 C, MaxTemp: on, MinTemp: off, ledIntensity: 0% t:0:2:40:481 PC time: 00:06:33:633
+-S-: stm32(): Temp: 24 C, MaxTempTh: 23 C, MinTempTh: 20 C, MaxTemp: on, MinTemp: off, ledIntensity: 0% t:0:2:44:583 PC time: 00:06:37:637
+-I-: GUI model(): btn Set Maximum Threshold pressed, Seting Maximum Threshold PC time: 00:06:38:638
+-I-: Serial Comunication(): Wrote message: M15 PC time: 00:06:38:638
+-C-: stm32(): (Press esc key to exit) Set max Temperature Threshold (C): 15 PC time: 00:06:38:638
+-E-: stm32(): ERROR_ID: 0x8 Trying to set MAX_THRESHOLD lower than MIN_THRESHOLD t:0:2:46:133 PC time: 00:06:39:639
+-S-: stm32(): Temp: 24 C, MaxTempTh: 23 C, MinTempTh: 20 C, MaxTemp: on, MinTemp: off, ledIntensity: 0% t:0:2:48:685 PC time: 00:06:41:641
+-S-: stm32(): Temp: 24 C, MaxTempTh: 23 C, MinTempTh: 20 C, MaxTemp: on, MinTemp: off, ledIntensity: 0% t:0:2:52:787 PC time: 00:06:45:645
+-I-: GUI model(): btn Set Maximum Threshold pressed, Seting Maximum Threshold PC time: 00:06:46:646
+-I-: Serial Comunication(): Wrote message: M50 PC time: 00:06:46:646
+-C-: stm32(): (Press esc key to exit) Set max Temperature Threshold (C): 50 PC time: 00:06:46:646
+-I-: stm32(): MAX_TEMP_TRHESHOLD set:  50 t:0:2:53:999 PC time: 00:06:46:646
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:2:56:889 PC time: 00:06:49:649
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:3:0:991 PC time: 00:06:53:653
+-I-: GUI model(): btn Set Minimum Threshold pressed, Seting Minimum Threshold PC time: 00:06:56:656
+-I-: Serial Comunication(): Wrote message: m28 PC time: 00:06:56:656
+-C-: stm32(): (Press esc key to exit) Set min Temperature Threshold (C): 28 PC time: 00:06:56:656
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  28 t:0:3:4:53 PC time: 00:06:57:657
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 28 C, MaxTemp: off, MinTemp: on, ledIntensity: 0% t:0:3:5:93 PC time: 00:06:58:658
+-I-: GUI model(): btn Min Threshold Decrement pressed, Decrementing 1°C Min Threshold PC time: 00:06:59:659
+-I-: Serial Comunication(): Wrote message: b PC time: 00:06:59:659
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  27 t:0:3:7:139 PC time: 00:06:59:659
+-I-: GUI model(): btn Min Threshold Decrement pressed, Decrementing 1°C Min Threshold PC time: 00:07:00:70
+-I-: Serial Comunication(): Wrote message: b PC time: 00:07:00:70
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  26 t:0:3:8:546 PC time: 00:07:01:71
+-I-: GUI model(): btn Min Threshold Decrement pressed, Decrementing 1°C Min Threshold PC time: 00:07:01:71
+-I-: Serial Comunication(): Wrote message: b PC time: 00:07:01:71
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 26 C, MaxTemp: off, MinTemp: on, ledIntensity: 0% t:0:3:9:195 PC time: 00:07:02:72
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  25 t:0:3:9:350 PC time: 00:07:02:72
+-I-: GUI model(): btn Min Threshold Decrement pressed, Decrementing 1°C Min Threshold PC time: 00:07:02:72
+-I-: Serial Comunication(): Wrote message: b PC time: 00:07:02:72
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  24 t:0:3:10:145 PC time: 00:07:02:72
+-I-: GUI model(): btn Min Threshold Decrement pressed, Decrementing 1°C Min Threshold PC time: 00:07:03:73
+-I-: Serial Comunication(): Wrote message: b PC time: 00:07:03:73
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  23 t:0:3:11:133 PC time: 00:07:03:73
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 23 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:3:13:297 PC time: 00:07:06:76
+-I-: GUI model(): btn Min Threshold Increment pressed, Incrementing 1°C Min Threshold PC time: 00:07:08:78
+-I-: Serial Comunication(): Wrote message: B PC time: 00:07:08:78
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  24 t:0:3:15:647 PC time: 00:07:08:78
+-I-: GUI model(): btn Min Threshold Increment pressed, Incrementing 1°C Min Threshold PC time: 00:07:08:78
+-I-: Serial Comunication(): Wrote message: B PC time: 00:07:08:78
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  25 t:0:3:16:411 PC time: 00:07:09:79
+-I-: GUI model(): btn Min Threshold Increment pressed, Incrementing 1°C Min Threshold PC time: 00:07:09:79
+-I-: Serial Comunication(): Wrote message: B PC time: 00:07:09:79
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  26 t:0:3:17:145 PC time: 00:07:09:79
+-I-: GUI model(): btn Min Threshold Increment pressed, Incrementing 1°C Min Threshold PC time: 00:07:10:710
+-I-: Serial Comunication(): Wrote message: B PC time: 00:07:10:710
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 26 C, MaxTemp: off, MinTemp: on, ledIntensity: 0% t:0:3:17:399 PC time: 00:07:10:710
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  27 t:0:3:17:746 PC time: 00:07:10:710
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 27 C, MaxTemp: off, MinTemp: on, ledIntensity: 0% t:0:3:21:501 PC time: 00:07:14:714
+-I-: GUI model(): btn Set Minimum Threshold pressed, Seting Minimum Threshold PC time: 00:07:17:717
+-I-: Serial Comunication(): Wrote message: m55 PC time: 00:07:17:717
+-C-: stm32(): (Press esc key to exit) Set min Temperature Threshold (C): 55 PC time: 00:07:17:717
+-E-: stm32(): ERROR_ID: 0x9 Trying to set MIN_THRESHOLD greater than MAX_THRESHOLD t:0:3:24:708 PC time: 00:07:17:717
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 27 C, MaxTemp: off, MinTemp: on, ledIntensity: 0% t:0:3:25:603 PC time: 00:07:20:720
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 27 C, MaxTemp: off, MinTemp: on, ledIntensity: 0% t:0:3:29:705 PC time: 00:07:22:722
+-I-: GUI model(): btn Set Minimum Threshold pressed, Seting Minimum Threshold PC time: 00:07:26:726
+-I-: Serial Comunication(): Wrote message: m-10 PC time: 00:07:26:726
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: 27 C, MaxTemp: off, MinTemp: on, ledIntensity: 0% t:0:3:33:807 PC time: 00:07:26:726
+-C-: stm32(): (Press esc key to exit) Set min Temperature Threshold (C): -10 PC time: 00:07:27:727
+-I-: stm32(): MIN_TEMP_TRHESHOLD set:  -10 t:0:3:34:172 PC time: 00:07:27:727
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: -10 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:3:37:909 PC time: 00:07:30:730
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: -10 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:3:42:11 PC time: 00:07:34:734
+-I-: GUI model(): Open help button pressed, Opening Help PC time: 00:07:36:736
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: -10 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:3:46:113 PC time: 00:07:40:740
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: -10 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:3:50:215 PC time: 00:07:43:743
+-I-: GUI model(): Open Log button pressed, Opening Log file PC time: 00:07:44:744
+-I-: Log(): Log file opened PC time: 00:07:44:744
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: -10 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:3:54:317 PC time: 00:07:47:747
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: -10 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:3:58:419 PC time: 00:07:51:751
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: -10 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:4:2:522 PC time: 00:07:55:755
+-S-: stm32(): Temp: 24 C, MaxTempTh: 50 C, MinTempTh: -10 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:4:6:624 PC time: 00:07:59:759
+-I-: GUI model(): Closing GUI PC time: 00:08:03:83
+-I-: Serial Comunication(): Disconnecting PC-STM32 PC time: 00:08:03:83
+-I-: Serial Comunication(): Disconnected. PC time: 00:08:03:83
+-I-: Log(): count_info: 153 PC time: 00:08:03:83
+-I-: Log(): count_error: 7 PC time: 00:08:03:83
+-I-: Log(): count_warning: 0 PC time: 00:08:03:83
+-I-: Log(): count_debug: 0 PC time: 00:08:03:83
+-I-: Log(): count_status: 58 PC time: 00:08:03:83
+-I-: Log(): count_config: 9 PC time: 00:08:03:83
+-I-: Log(): Closing log file PC time: 00:08:03:83

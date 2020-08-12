@@ -1,0 +1,117 @@
+HELP FILE
+
+slow mode -> The system can be configured at any time and the changes will be reflected inmediately.
+	     The system will sense the temperature every 100ms.
+	     The system will send Status every 5s
+
+normal mode ->The system can be configured at any time and the changes will be reflected inmediately.
+	      The system will sense the temperature every 100ms.
+	      The system will send Status every 0.5s
+
+The System Can be executed with the GUI included or with a terminal emulator like Tera Term
+
+*****************************************TERMINAL EMULATOR*************************************************************
+To execute the system with a terminal emulator open the terminal and press any key, if you press the "s" key the system
+will start in "slow mode", otherwise it will start in "normal mode"
+the System will be sending status to the serial port every 0.5s or 5s depending on the mode of operation
+
+The status message will be like the next message
+-S- Temp: 26 C, MaxTempTh: 50 C, MinTempTh: 20 C, MaxTemp: off, MinTemp: off, ledIntensity: 0% t:0:0:12:907
+
+S -> Indicates that it is a Status message
+Temp: -> Indicates the temperature sensed by the temperature sensor in °C
+MaxTempTh: -> Indicates the Maximum Threshold.
+MinTempTh: -> Indicates the Minimum Threshold.
+MaxTemp: -> Indicates if the temperature is greater than the Maximum Threshold
+MinTemp: -> Indicates if the temperature is lower than the Minimum Threshold
+ledIntensity: -> Indicates the Intensity of the LED
+t: -> Indicates the system time, this time starts running when the system is powered
+
+The system can also send Error Messages <-E->, Info Messages <-I-> and Configuration Messages <-C->
+
+****INFO MESSAGE******
+-I-: LedIntensity is at minimun t:0:0:8:169
+
+The Info Message is sent when an action is performed and the parameters of the system were changed
+
+****CONFIGURATION MESSAGE*******
+-C- (Press esc key to exit) Set min Temperature Threshold (C):
+
+The Configuration Message is sent when a config Key is pressed and the system is waiting for the data to configure the system
+
+*****ERROR MESSAGE*************
+
+-E-: ERROR_ID: 0x2 Invalid data was sent. Please send a valid temperature (integer numbers) t:0:0:10:420
+
+The Error message is sent when an unexpected behavior or invalid data was sent to the system, the Error message contains the ID of the message
+and a brief explanation of the error
+
+To Configure the system you can use the configuration keys, if you pressed another key nothing will be performed
+
+*****CONFIGURATION KEYS***********
+
+"H" or "h" -> displays the system´s help menu
+"L" -> Increments 10% the LED´s Intensity
+"l" -> Decrements 10% the LED´s Intensity
+"N" -> Increments 1°C the maximum Threshold
+"n" -> Decrements 1°C the maximum Threshold
+"B" -> Increments 1°C the minimum Threshold
+"b" -> Decrements 1°C the minimum Threshold
+"M" -> Configures manually the maximum Threshold
+"m" -> Configures manually the minimum Threshold
+"I" or "i" -> Configures manually the LED´s Intensity
+
+*****************************************GUI******************************************************************************
+To Use the GUI execute the file SmartHouse.Jar, a window will be prompt to select the SerialPort, if no port is selected,
+the port is bussy or the system can´t oppen the port the GUI will be closed
+After the port is selected the system will be automatically started in "slow mode" this is neccesary because off the slowness of the serial
+reading
+
+The GUI´s left panel is the information panel, this panel displays the system´s information, this panel is updated every 5s
+
+The GUI´s right panel is the configuration panel, in this panel you can configure the system´s parameters, the changes are reflected 
+inmediately in the system but they could have a delay of 5s to be reflected in the information panel or to display the error windows
+
+If invalid data is sent the GUI can display an error window, this window doesn´t stop the system, the system is still working but the 
+configuration wasn´t set to the system
+The system can also prompt error windows, if the system sends an error message the GUI will prompt an error window.
+
+To configure manually the maximum Threshold use the button "Set maximum Threshold" after filling the field next to the button with 
+the data to be sent to the system.
+
+To configure manually the minimum Threshold use the button "Set minimum Threshold" after filling the field next to the button with 
+the data to be sent to the system.
+
+To configure manually the LED´s intensity use the button "Set LED intensity" after filling the field next to the button with 
+the data to be sent to the system.
+
+The button "max TH +1°C" will increment in 1°C the maximum Threshold
+The button "max TH -1°C" will decrement in 1°C the maximum Threshold
+The button "min TH +1°C" will increment in 1°C the minimum Threshold
+The button "min TH -1°C" will decrement in 1°C the minimum Threshold
+
+Use the button "Open Help" to oppen this help file
+
+The label "upper temperature threshold" indicates the status of the threshold, if it is green the temperature is greater than the maximum 
+threshold, if it is red the temperature is lower than the maximum threshold
+
+The label "lower temperature threshold" indicates the status of the threshold, if it is green the temperature is lower than the minimum 
+threshold, if it is red the temperature is greater than the minimum threshold
+
+The gui writes a log in "log.txt", this log will capture the actions performed by the system and the GUI
+
+the log message will start with and identification code 
+-I- -> Information
+-S- -> Status
+-C- -> Configuration
+-E- -> Error
+
+after the identification code will be the source of the message, if the source is "STM32()" indicates that it is a message sent by the system
+otherwise is a message sent by a GUI´s componnent
+
+When the GUI is closed the log is also closed and it generates a summary of the messages received
+
+Every time that the GUI is executed the log file is overrided.
+
+The Log can be opened by pressing the button "Open Log"
+
